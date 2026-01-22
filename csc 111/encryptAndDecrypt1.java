@@ -1,7 +1,7 @@
-/* Students names: Jumana Rema
+/* Students names:Rema
    Students IDs: 
    Section numbers: ??
-   Lab instructor's name: haifa  
+   Lab instructor's name:  
 */
 import java.util.Scanner;
 
@@ -186,4 +186,5 @@ public class encryptAndDecrypt1
          } 
       } 
    }
+
 }
