@@ -15,7 +15,7 @@ This repository documents my progression from basic syntax to logical problem-so
 *   **Core Logic:** Variables, Data Types, and Operators.
 *   **Control Flow:** Conditional statements (If-Else, Switch) and iterative Loops (For, While).
 *   **Methods & Arrays:** Modular programming, code reusability, and basic data manipulation.
-*   **🔐 Mini-Project (Encryption/Decryption):** A hands-on project applying core logic to manipulate strings and build a basic text encryption/decryption tool[span_4](start_span)[span_4](end_span).
+*   **🔐 Mini-Project (Encryption/Decryption):** A hands-on project applying core logic to manipulate strings and build a basic text encryption/decryption tool.
 
 ## 💻 Technologies & Tools
 *   **Language:** Java
