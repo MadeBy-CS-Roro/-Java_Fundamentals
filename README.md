@@ -25,3 +25,7 @@ This repository documents my progression from basic syntax to logical problem-so
 Every complex system starts with mastering the basics. This repository documents the crucial first steps in building the logical mindset needed to understand, develop, and eventually secure large-scale applications.
 
 ---
+
+<div align="center">
+  <a href="www.linkedin.com/in/Reema-AlShowiman">Connect with me on LinkedIn</a>
+</div>
