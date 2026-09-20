@@ -27,5 +27,5 @@ Every complex system starts with mastering the basics. This repository documents
 ---
 
 <div align="center">
-  <a href="www.linkedin.com/in/Reema-AlShowiman">Connect with me on LinkedIn</a>
+  <a href="[www.linkedin.com/in/Reema-AlShowiman](https://www.linkedin.com/in/reema-alshowiman?utm_source=share_via&utm_content=profile&utm_medium=member_ios)">Connect with me on LinkedIn</a>
 </div>
