@@ -1,7 +1,7 @@
 
   # ☕ Java Fundamentals (CSC 111)
   
-  > *"My first steps with Java: experimenting, playing around, and creating a small project that marks my journey in programming."*[span_3](start_span)[span_3](end_span)
+  > *"My first steps with Java: experimenting, playing around, and creating a small project that marks my journey in programming."*
 </div>
 
 ---
